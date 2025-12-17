@@ -4,7 +4,7 @@ My journey into programming started when a friend introduced me to C++, and I wa
 
 From circuits to code, I’ve always been fascinated by how things work. I began with C++ and Java, tinkering my way through trials/errors before diving into the world of e-commerce and Magento.
 
-These days I'm experimenting with Python, Node.js, Rust, and whatever else catches my interest. Let’s geek out together! 🚀
+These days I'm focusing on Cloud-Native Data Infrastructure on AWS and experimenting with Data Engineering, Python, Rust, and whatever else catches my interest. Let’s geek out together! 🚀
 
 <!--
 **juashyam/juashyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
